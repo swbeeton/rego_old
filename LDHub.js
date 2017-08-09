@@ -7,8 +7,8 @@
 <script type="text/javascript">
 	
 // update these items to match your configuration
-var eventList = 'LearningExpress';
-var registrationList = 'LearningExpress_Registrations';
+var eventList = '<Your event list here>';
+var registrationList = '<Your registration list here>';
 
 var event = getUrlVar("Event");
 
